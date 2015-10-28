@@ -1,1 +1,53 @@
 /* Add custom styles here */
+.navbar-default .navbar-link {
+	color: #0074e4;
+}
+
+body { 
+	padding-top: 50px; 
+}
+
+.jumbotron {
+	background-image: url(http://www.zillowstatic.com/static-homepage/959f393/static-homepage/images/backgrounds/FirstTime_Hero_124544671_1024x500_2x.jpg);
+    color: white;
+    height: 450px;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.find-your-way-home {
+	margin-bottom: 170px;
+	width: 610px;
+}
+
+.find-your-way-home  h1 {
+	font-size: 50px;
+	font-weight: 400;
+}
+
+.find-your-way-home .btn-primary {
+	background-color: transparent;
+	border-color: white;
+	color: white;
+}
+
+.find-your-way-home .btn-primary.active {
+	background-color: rgba(0,116,228,.75);
+}
+
+.find-your-way-home .btn-primary:hover {
+	background-color: rgba(0,116,228,.5);
+}
+
+.call-to-action {
+	background-color: rgba(24,52,93,.85);
+	color: white;	
+}
+
+.marketing-boxes img {
+	max-width: 100%;
+
+
+}
+
+
